@@ -13,5 +13,5 @@ Current thread 0x00004544 (most recent call first):
     reader.read()
     ...
 
-Problem was really in xlml module, not QGIS. More about issue:
+Problem was really in lxml module, not QGIS. More about issue:
 https://github.com/qgis/QGIS/issues/55807
